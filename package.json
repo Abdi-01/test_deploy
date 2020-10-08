@@ -2,7 +2,7 @@
   "name": "heroku-cra",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abdi-01.github.io/test_deploy",
+  "homepage": "http://Abdi-01.github.io/test_deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
