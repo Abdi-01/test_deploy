@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Abdi-01/test_deploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Abdi-01/test_deploy/static/js/main.06223c90.chunk.js",
+    "main.js.map": "/Abdi-01/test_deploy/static/js/main.06223c90.chunk.js.map",
+    "runtime-main.js": "/Abdi-01/test_deploy/static/js/runtime-main.1b15cb2b.js",
+    "runtime-main.js.map": "/Abdi-01/test_deploy/static/js/runtime-main.1b15cb2b.js.map",
+    "static/js/2.16abf6aa.chunk.js": "/Abdi-01/test_deploy/static/js/2.16abf6aa.chunk.js",
+    "static/js/2.16abf6aa.chunk.js.map": "/Abdi-01/test_deploy/static/js/2.16abf6aa.chunk.js.map",
+    "index.html": "/Abdi-01/test_deploy/index.html",
+    "precache-manifest.275f4315546bb7cdc2c8a476e186a862.js": "/Abdi-01/test_deploy/precache-manifest.275f4315546bb7cdc2c8a476e186a862.js",
+    "service-worker.js": "/Abdi-01/test_deploy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Abdi-01/test_deploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16abf6aa.chunk.js.LICENSE.txt": "/Abdi-01/test_deploy/static/js/2.16abf6aa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Abdi-01/test_deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b15cb2b.js",
+    "static/js/2.16abf6aa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.06223c90.chunk.js"
+  ]
+}
